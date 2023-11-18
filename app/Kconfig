@@ -24,7 +24,7 @@ config USB_DEVICE_PID
 
 config USB_DEVICE_MANUFACTURER
 	default "ZMK Project"
-
+ 
 menu "HID"
 
 choice ZMK_HID_REPORT_TYPE
